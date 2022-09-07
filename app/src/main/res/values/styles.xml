@@ -8,6 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
     <!-- The AppThemePink style theme inherits from the default theme (same as above)
      and only changes the key colors and adds more properties to it  -->
 
